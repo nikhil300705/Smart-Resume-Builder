@@ -77,9 +77,9 @@ npm run dev
 ## 🔐 Environment Variables (.env)
 
 ```
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_secret
-PORT=5000
+MONGO_URI=mongodb+srv://SmartResumeBuilder:Sathwika30@cluster0.lzsfj8z.mongodb.net/smart-resume?retryWrites=true&w=majority
+JWT_SECRET=smartresume_super_secure_2026
+PORT=5001
 AI_API_KEY=your_ai_key
 GITHUB_TOKEN=optional_github_token
 ```

@@ -9,9 +9,7 @@ A full‑stack AI powered resume builder that helps users create professional re
 * Create professional resumes dynamically
 * AI‑powered resume improvement suggestions
 * Automatic content optimization
-* GitHub project explorer integration
-* Add projects directly to resume
-* Section‑wise editing (Education, Skills, Experience)
+* * * Section‑wise editing (Education, Skills, Experience)
 * Export ready resume format
 
 ---
@@ -44,9 +42,8 @@ A full‑stack AI powered resume builder that helps users create professional re
 1. User enters resume details
 2. AI analyzes content
 3. Suggestions generated to improve quality
-4. GitHub projects fetched and selectable
-5. Resume updated dynamically
-6. Final resume ready for export
+4. 5. Resume updated dynamically
+5. Final resume ready for export
 
 ---
 
@@ -109,3 +106,4 @@ Full Stack Developer
 ## ⭐ Support
 
 If you like this project, give it a star ⭐ on GitHub!
+

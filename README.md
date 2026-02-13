@@ -1,4 +1,4 @@
-# 🤖 Smart Resume Builder with AI Suggestions & GitHub Project Explorer
+# 🤖 Smart Resume Builder with AI Suggestions
 
 A full‑stack AI powered resume builder that helps users create professional resumes, receive intelligent improvement suggestions, and explore GitHub projects to automatically enhance skills and experience sections.
 
